@@ -1,0 +1,6 @@
+C:\Users\marty\source\repos\slonie\slonie\bin\Debug\slonie.exe.config
+C:\Users\marty\source\repos\slonie\slonie\bin\Debug\slonie.exe
+C:\Users\marty\source\repos\slonie\slonie\bin\Debug\slonie.pdb
+C:\Users\marty\source\repos\slonie\slonie\obj\Debug\slonie.csprojAssemblyReference.cache
+C:\Users\marty\source\repos\slonie\slonie\obj\Debug\slonie.exe
+C:\Users\marty\source\repos\slonie\slonie\obj\Debug\slonie.pdb
